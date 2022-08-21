@@ -1,5 +1,6 @@
-# Javascript-ERC721-Get-Owned-tokenId-Universal-
+# Javascript-ERC721-Get-Owned-tokenId-Universal
 Etherscan API to get a latest owned tokenId
+A very handy code to fetch NFT Assets :)
 
 What to acknowledge:
 
